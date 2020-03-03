@@ -102,3 +102,17 @@ or_base +
   labs(title = "Student Participation by School Location in Oregon",
          subtitle = "Oregon's Extended Assessment for students with significant cognitive disabilities ")
 ```
+
+
+
+Asha's comments:
+Strengths:
+1. I liked that you explored your data with basic visualization
+2. Using uniform dark background color with contrast colour for data display made it easier for your readers to understand the visualization.
+3. County outlines is helpful.
+
+I learned:
+1. I learned about packages to plot map and map visualization with uniform background.
+
+Suggestions:
+I noticed you've loaded ggrepel package, probably you've thought it. Is there any way you can highlight first 5 or 10 locations with highest or lowest number of participation. Not everyone is aware of areas in Oregon. Location wise data display, may bring more insight into factors driving the high or low participation.
